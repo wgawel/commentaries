@@ -1,2 +1,2 @@
 # commentaries
-Narzędzie umożliwiające łatwe wyszukiwanie i dodawanie komentarzy (opracowań) do fragmentów tekstu. Z założenie przeznaczone dla komentarzy biblijnych, być może stanie się generyczne.
+The tool allows easy search and add comments (studies) to parts of the text. On the assumption used for the biblical commentaries, may become generic.
